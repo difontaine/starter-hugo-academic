@@ -6,7 +6,7 @@ title: Diana Fontaine
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
